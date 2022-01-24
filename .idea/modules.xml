@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/03.Syntactic-Processing-Assignments.iml" filepath="$PROJECT_DIR$/.idea/03.Syntactic-Processing-Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02.Syntactic-Processing/Custom NER Code Demonstration/Code files/.idea/Code files.iml" filepath="$PROJECT_DIR$/../02.Syntactic-Processing/Custom NER Code Demonstration/Code files/.idea/Code files.iml" />
+    </modules>
+  </component>
+</project>
